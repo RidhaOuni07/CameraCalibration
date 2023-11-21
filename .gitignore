@@ -1,0 +1,5 @@
+images/*.png
+output/*.png
+*.png
+output
+images
